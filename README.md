@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👾
 
 $ cat .winstonrc   
 \# I'm a software dev who enjoys tinkering with handheld devices like the Game Boy.  
