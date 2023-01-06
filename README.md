@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+$ cat .winstonrc   
+# I'm a software dev who enjoys tinkering with handheld devices like the Game Boy.  
+# I enjoy contributing to open source projects and believe in FOSS.  
+$ 
+
 <!--
-**winstonrc/winstonrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
