@@ -6,7 +6,7 @@ $ cat .winstonrc
 \# I contribute to open source projects when I can and am a proponent of FOSS.
 
 \# mastodon: [@winston@fosstodon.org](https://fosstodon.org/@winston)  
-$ <img src="https://user-images.githubusercontent.com/71997294/211171023-9646ad14-3c19-4170-b415-740d47f8ed80.png" height="48">
+$ <img src="https://user-images.githubusercontent.com/71997294/211171023-9646ad14-3c19-4170-b415-740d47f8ed80.png" height="10">
 
 <!--
 
