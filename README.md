@@ -1,7 +1,7 @@
 ### [w@π: ~]
 
 $ cat .winstonrc   
-\# 🌱 👾 🎾 🏎️  
+\# 🌱 👾 🏎️ 🎾  
 \# I'm a software developer who enjoys tinkering with handheld devices like the Game Boy.  
 \# I enjoy contributing to open source projects and believe in FOSS.
 
