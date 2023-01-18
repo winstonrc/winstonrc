@@ -1,24 +1,10 @@
 ### [w@π: ~]
 
 $ cat .winstonrc   
-\# 🌱 👾 🏎️ 🎾 <img src="https://user-images.githubusercontent.com/71997294/211171123-b37382b5-306d-4925-887f-20a9ec2dcf4f.png" height="15"> <img src="https://user-images.githubusercontent.com/71997294/211171148-bdcbe299-04f6-43d2-97fe-2548e0ca848e.png" height="15">
+\# 🌱 👾 🏎️ 🎾 <!-- :f91w: --> <img src="https://cdn.fosstodon.org/custom_emojis/images/000/765/390/original/f262a763a31e27d9.png" height="15"> <!-- :arch: --> <img src="https://cdn.fosstodon.org/custom_emojis/images/000/090/050/original/ae5ab97b259fe17d.png" height="15">
     
 \# Software developer with a passion for tinkering.  
 \# I contribute to open source projects when I can and am a proponent of FOSS.
 
 \# mastodon: [@winston@fosstodon.org](https://fosstodon.org/@winston)  
-$ <img src="https://user-images.githubusercontent.com/71997294/211171023-9646ad14-3c19-4170-b415-740d47f8ed80.png" height="15">
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ <!-- :idle: --> <img src="https://cdn.fosstodon.org/custom_emojis/images/000/068/439/original/34414397f51ab00b.png" height="15">
