@@ -1,4 +1,4 @@
-### [w@π: ~]
+### [w@π ~]
 
 $ cat .winstonrc   
 \# 🌱 👾 🏎️ 🎾 <!-- :f91w: --> <img src="https://cdn.fosstodon.org/custom_emojis/images/000/765/390/original/f262a763a31e27d9.png" height="15"> <!-- :arch: --> <img src="https://cdn.fosstodon.org/custom_emojis/images/000/090/050/original/ae5ab97b259fe17d.png" height="15">
